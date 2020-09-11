@@ -1,0 +1,5 @@
+M = int(input())
+W = int(input())
+if M > W:print("Yes, you can enter.")
+elif M==W:print("Yes, you can enter. Kindly use a rope.")
+else:print("Sorry, you can't enter")
